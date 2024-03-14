@@ -1,0 +1,12 @@
+br/com/caelum/fj91/rh/usecases/reajuste/validacao/ValidadorReajusteDentroDaFaixaSalarialTest.class
+br/com/caelum/fj91/rh/usecases/cargo/validacao/cadastro/ValidadorNomeUnicoTest.class
+br/com/caelum/fj91/rh/builders/ReajusteBuilder.class
+br/com/caelum/fj91/rh/usecases/cargo/validacao/cadastro/ValidadorSalarioMinimoNacionalTest.class
+br/com/caelum/fj91/rh/builders/FuncionarioBuilder.class
+br/com/caelum/fj91/rh/usecases/cargo/validacao/exclusao/ValidadorCargoEmUsoTest.class
+br/com/caelum/fj91/rh/usecases/cargo/validacao/cadastro/ValidadorSalarioMaximoEmpresaTest.class
+br/com/caelum/fj91/rh/usecases/reajuste/validacao/ValidadorPeriodoDeExperienciaTest.class
+br/com/caelum/fj91/rh/usecases/funcionario/validacao/cadastro/ValidadorSalarioCompativelComCargoTest.class
+br/com/caelum/fj91/rh/builders/CargoBuilder.class
+br/com/caelum/fj91/rh/usecases/reajuste/validacao/ValidadorPeriodicidadeReajustesTest.class
+br/com/caelum/fj91/rh/usecases/cargo/validacao/cadastro/ValidadorSalarioMinimoMenorQueMaximoTest.class
