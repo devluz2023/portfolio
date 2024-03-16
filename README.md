@@ -216,6 +216,7 @@ outros elementos de sequenciação textual
 
 
 
+
 #### Bussiness 🎫
 - [Administração pública](https://github.com/filiptronicek/filiptronicek)
 - [Poderes administrativos](https://github.com/garimasingh128/garimasingh128)
@@ -226,13 +227,21 @@ outros elementos de sequenciação textual
   - Anulação, revogação e convalidação
   - Discricionaridade e vinculação
 - [Servidores públicos](https://github.com/garimasingh128/garimasingh128)
+  - cargo, emprego e função públicos. 
+  - Lei nº 8.112/1990 (Regime Jurídico dos Servidores Públicos Civis da União) e alterações
+  - Disposições preliminares
+  - Provimento, vacância, remoção, redistribuição e substituição. 
+  - Direitos e vantagens. 
+  - Regime disciplinar. 
+  - Seguridade social do servidor: aposentadoria e pensão civil. 
+  - Processo administrativo disciplinar. 
+
 - [Improbidade Administrativa](https://github.com/garimasingh128/garimasingh128)
 - [Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994).](https://github.com/garimasingh128/garimasingh128)
 - [ Código de Conduta da Alta Administração Federal](https://github.com/garimasingh128/garimasingh128)
 - [Lei de conflito de interesses (Lei nº 11.813/2013)](https://github.com/garimasingh128/garimasingh128)
 - [Lei de Acesso à Informação (Lei nº 12.527/2011)](https://github.com/garimasingh128/garimasingh128)
 - [Lei nº 13.709/2018 Lei Geral de Proteção de Dados Pessoais](https://github.com/garimasingh128/garimasingh128)
-
 #### Math 🖋
 - [Raciocínio lógico](https://github.com/filiptronicek/filiptronicek)
   - Estrutura lógicas
