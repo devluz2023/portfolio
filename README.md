@@ -47,11 +47,55 @@
 ## Categories
 
 #### Data Science 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
-- [Brian Douglas](https://github.com/bdougie/bdougie)
-- [Shawn Wang](https://github.com/sw-yx/sw-yx)
 
+#### Data Science 🤖
+- [Aprendizado de Máquina](https://github.com/abhisheknaiidu/abhisheknaiidu)
+ - Supervisionado
+ - Não Supervisionado
+ - Semi Supervisionado
+ - Por Reforço
+ - Por Transferência
+- [Deep learning](https://github.com/thmsgbrt/thmsgbrt)
+- [Processamento de linguagem natural](https://github.com/bdougie/bdougie)
+  - Extração da idéia central de um texto
+  - Reconhecimento de tipos e gêneros textuais.
+  - Corretor Ortográfico
+  - Emprego de elementos de referenciação, substituição e repetição, de conectores e de
+outros elementos de sequenciação textual
+  - Emprego de tempos e modos verbais
+  - Domínio da estrutura morfossintática do período
+  - Emprego das classes de palavras
+  - Relações de coordenação entre orações e entre termos da oração
+  - Relações de subordinação entre orações e entre termos da oração
+  - Emprego dos sinais de pontuação
+  - Concordância verbal e nominal
+  - Regência verbal e nominal.
+  - Emprego do sinal indicativo de crase. 
+  - Colocação dos pronomes átonos. 
+  - Reescrita de frases e parágrafos do texto
+  - Significação das palavras
+  - Substituição de palavras ou de trechos de texto
+  - Reorganização da estrutura de orações e de períodos do texto
+  - Reescrita de textos de diferentes gêneros e níveis de formalidade.
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Qualidade de dados](https://github.com/sw-yx/sw-yx)
+- [Grandes Modelos de Linguagem (LLM)](https://github.com/sw-yx/sw-yx)
+- [IA Generativa](https://github.com/sw-yx/sw-yx)
+- [Redes Neurais](https://github.com/sw-yx/sw-yx)
+- [MLOPS](https://github.com/sw-yx/sw-yx)
+  - Gestão de código
+  - Treinamento
+  - Implantação
+  - Monitoramento
+  - Versionamento
+  - Automaçâo do ciclo de produção
+- [Governança e Ética na IA](https://github.com/sw-yx/sw-yx)
+  - Tranparência
+  - Responsabilidade
+  - Explicabilidade
+  - Privacidade
+  - Segurança
+  - Viés
 
 #### Security 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
