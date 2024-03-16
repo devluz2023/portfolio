@@ -87,6 +87,7 @@ em trânsito e em repouso. 10 Segurança em nuvens e de contêineres.
 ENGENHARIA DE SOFTWARE (24): 1 Arquitetura de sistemas web: protocolo HTTP, HTTP/2, gRPC,
 WebSockets, TLS, servidores proxy, cache, DNS, balanceamento de carga, tolerância a falhas e escalabilidade
 em sistemas web. 2 Princípios e práticas de DevOps e DevSecOps, integração e entrega contínuas (CI/CD). 3
+
 Técnicas de desenvolvimento seguro. 4 Testes de software: Testes unitários, Testes de Integração, TDD, BDD.
 5 Arquiteturas em camadas, baseada em serviços, microsserviços (orquestração de serviços e API gateway),
 orientação a eventos, cliente-servidor, serverless. 6 Práticas de UX e UI design. 7 Programação assíncrona. 8
