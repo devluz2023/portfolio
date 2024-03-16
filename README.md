@@ -214,10 +214,24 @@ outros elementos de sequenciação textual
 - [Governança de dados](https://github.com/garimasingh128/garimasingh128)
 - [ITIL V4](https://github.com/garimasingh128/garimasingh128)
 
-#### Bussiness 🎫
-- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
-- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 
+
+#### Bussiness 🎫
+- [Administração pública](https://github.com/filiptronicek/filiptronicek)
+- [Poderes administrativos](https://github.com/garimasingh128/garimasingh128)
+- [Organização administrativa brasileira](https://github.com/garimasingh128/garimasingh128)
+- [Ato Administrativo](https://github.com/garimasingh128/garimasingh128)
+  - Conceito, requisitos e atributos
+  - Comunicação dos atos administrativos
+  - Anulação, revogação e convalidação
+  - Discricionaridade e vinculação
+- [Servidores públicos](https://github.com/garimasingh128/garimasingh128)
+- [Improbidade Administrativa](https://github.com/garimasingh128/garimasingh128)
+- [Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994).](https://github.com/garimasingh128/garimasingh128)
+- [ Código de Conduta da Alta Administração Federal](https://github.com/garimasingh128/garimasingh128)
+- [Lei de conflito de interesses (Lei nº 11.813/2013)](https://github.com/garimasingh128/garimasingh128)
+- [Lei de Acesso à Informação (Lei nº 12.527/2011)](https://github.com/garimasingh128/garimasingh128)
+- [Lei nº 13.709/2018 Lei Geral de Proteção de Dados Pessoais](https://github.com/garimasingh128/garimasingh128)
 
 #### Math 🖋
 - [Raciocínio lógico](https://github.com/filiptronicek/filiptronicek)
