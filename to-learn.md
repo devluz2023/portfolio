@@ -64,12 +64,14 @@ relações internacionais, desenvolvimento sustentável e ecologia.
 
 CONHECIMENTOS ESPECÍFICOS
 CARGO 1: ANALISTA - ÁREA 1 - TECNOLOGIA DA INFORMAÇÃO
+
 CIÊNCIA DE DADOS (14): 1 Aprendizado de Máquina. 2 Deep learning. 3 Processamento de linguagem natural.
 4 Big data. 5 Qualidade de Dados. 6 Tipos de Aprendizado: Supervisionado, Não Supervisionado, Semi
 Supervisionado, Por Reforço, Por Transferência. 7 Grandes Modelos de Linguagem (LLM), IA Generativa. 8
 Redes Neurais. 9 MLOps: Gestão de código, treinamento, implantação, monitoramento e versionamento de
 modelos, automação do ciclo de produção. 10 Governança e Ética na IA: Transparência, Responsabilidade,
 Explicabilidade, Privacidade, Segurança, Viés.
+
 SEGURANÇA DA INFORMAÇÃO (7): 1 Gestão de Identidades e Acesso: Autenticação e Autorização, Single
 Sign-On (SSO), Security Assertion Markup Language (SAML), OAuth2 e OpenId Connect. 2 Privacidade e
 segurança por padrão. 3 Principais tipos de ataques e vulnerabilidades. 4 Controles e testes de segurança
@@ -81,6 +83,7 @@ Management (PAM), Antivírus, Antispam. 7 Frameworks de segurança da informaç�
 cibernética, como, por exemplo, MITRE ATT&CK, CIS Controls e NIST CyberSecurity Framework (NIST CSF). 8
 Tratamento de Incidentes Cibernéticos. 9 Assinatura e certificação digital, criptografia e proteção de dados
 em trânsito e em repouso. 10 Segurança em nuvens e de contêineres.
+
 ENGENHARIA DE SOFTWARE (24): 1 Arquitetura de sistemas web: protocolo HTTP, HTTP/2, gRPC,
 WebSockets, TLS, servidores proxy, cache, DNS, balanceamento de carga, tolerância a falhas e escalabilidade
 em sistemas web. 2 Princípios e práticas de DevOps e DevSecOps, integração e entrega contínuas (CI/CD). 3
@@ -89,6 +92,7 @@ Técnicas de desenvolvimento seguro. 4 Testes de software: Testes unitários, Te
 orientação a eventos, cliente-servidor, serverless. 6 Práticas de UX e UI design. 7 Programação assíncrona. 8
 RESTful e GraphQL. 9 Web services. 10 Padrões: GoF e GRASP. 11 Git. 12 Python e Java. 13 Transações
 distribuídas. 14 Distributed Ledger Technology (DLT).
+
 INFRAESTRUTURA EM TI (17): 1 Conceitos de infraestrutura como código e automação de infraestrutura de
 TI. 2 Docker, Kubernetes: boas práticas para infraestrutura e orquestração de containers. 3 Serviços de Rede
 Microsoft Windows Server: DNS, DHCP, Radius, Autenticação, Certificados, Active Directory (AD). 4
@@ -101,6 +105,7 @@ Tolerância a falhas e continuidade de operação. 7 Implantação e administra�
 PaaS e SaaS). 8 Administração e gerenciamento de ambientes de virtualização. 9 Administração e operação
 de sistemas operacionais Microsoft Windows Server e Linux. 10 Conceitos de LAN, WAN e SDN. 11 Conceitos
 e ferramentas de orquestração e automação de infraestrutura: Puppet, Ansible.
+
 BANCOS DE DADOS (4): 1 SGBDs SQL e NOSQL. 2 Modelagens de dados: relacional, multidimensional, nosql.
 3 SQL (Procedural Language / Structured Query Language). 4 Arquitetura de Inteligência de Negócio:
 DataWarehouse, DataMart, DataLake, DataMesh.
