@@ -116,7 +116,7 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
 
-#### Database😃
+#### Database 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -162,7 +162,7 @@
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
 
 
-#### Math🗒
+#### Math 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
@@ -174,7 +174,7 @@
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
 
-#### Economy🗒
+#### Economy 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
