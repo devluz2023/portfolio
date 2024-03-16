@@ -50,11 +50,11 @@
 
 #### Data Science 🤖
 - [Aprendizado de Máquina](https://github.com/abhisheknaiidu/abhisheknaiidu)
- - Supervisionado
- - Não Supervisionado
- - Semi Supervisionado
- - Por Reforço
- - Por Transferência
+   - Supervisionado
+   - Não Supervisionado
+   - Semi Supervisionado
+   - Por Reforço
+   - Por Transferência
 - [Deep learning](https://github.com/thmsgbrt/thmsgbrt)
 - [Processamento de linguagem natural](https://github.com/bdougie/bdougie)
   - Extração da idéia central de um texto
@@ -209,7 +209,7 @@ outros elementos de sequenciação textual
 
 
 #### It Management 🗒
-- [Kanban] (https://github.com/filiptronicek/filiptronicek)
+- [Kanban](https://github.com/filiptronicek/filiptronicek)
 - [Scrum](https://github.com/garimasingh128/garimasingh128)
 - [Governança de dados](https://github.com/garimasingh128/garimasingh128)
 - [ITIL V4](https://github.com/garimasingh128/garimasingh128)
