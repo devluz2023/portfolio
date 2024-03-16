@@ -26,12 +26,16 @@
 
 ### Contents:
   - [Categories](#categories)
-      - [Data Science 🤖](#github-actions-)
-      - [Security 🚀](#game-mode-)
-      - [Sofware Engineering 👨🏽‍💻](#code-mode-)
-      - [Infraestructure 💫](#dynamic-realtime-)
-      - [Database 😃](#a-little-bit-of-everything-)
-      - [It Management 🗒](#descriptive-)
+      - [Data Science 🤖](#data-science-)
+      - [Security 🚀](#security-)
+      - [Sofware Engineering 👨🏽‍💻](#software-engineering-)
+      - [Infraestructure 💫](#infraestructure-)
+      - [Database 😃](#database-)
+      - [It Management 🗒](#it-management-)
+      - [Bussiness 🎫](#Bussiness-)
+      - [Math🖋](#Math-)
+      - [Economy 👾](#economy-)
+
 
   - [Tools](#tools)
   - [Articles](#articles)
@@ -145,6 +149,42 @@
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
 
+#### Bussiness 🗒
+- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
+- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
+- [lizheming](https://github.com/lizheming/lizheming)
+- [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
+- [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
+- [TheAbbie](https://github.com/theabbie/theabbie)
+- [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
+- [Vidur Satija](https://github.com/vidursatija/vidursatija)
+- [Dani El-Ayyass](https://github.com/dayyass/dayyass)
+- [Nanra Sukedy](https://github.com/Nanra/Nanra)
+
+
+#### Math🗒
+- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
+- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
+- [lizheming](https://github.com/lizheming/lizheming)
+- [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
+- [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
+- [TheAbbie](https://github.com/theabbie/theabbie)
+- [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
+- [Vidur Satija](https://github.com/vidursatija/vidursatija)
+- [Dani El-Ayyass](https://github.com/dayyass/dayyass)
+- [Nanra Sukedy](https://github.com/Nanra/Nanra)
+
+#### Economy🗒
+- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
+- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
+- [lizheming](https://github.com/lizheming/lizheming)
+- [Nguyễn Hoàng Dương](https://github.com/you-create/you-create)
+- [Saksham Taneja](https://github.com/sakshamtaneja21/sakshamtaneja21)
+- [TheAbbie](https://github.com/theabbie/theabbie)
+- [Keshav Singh](https://github.com/keshavsingh4522/keshavsingh4522)
+- [Vidur Satija](https://github.com/vidursatija/vidursatija)
+- [Dani El-Ayyass](https://github.com/dayyass/dayyass)
+- [Nanra Sukedy](https://github.com/Nanra/Nanra)
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
