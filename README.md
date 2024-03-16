@@ -104,41 +104,43 @@ outros elementos de sequenciação textual
 
 #### Software Engineering 👨🏽‍💻
 - [Arquitetura de Sistemas Web](https://github.com/Thaiane/Thaiane)
-- [Rest Http](https://github.com/ashbakernz/ashbakernz)
-- [Rest Http 2](https://github.com/ashbakernz/ashbakernz)
-- [GRPC](https://github.com/ashbakernz/ashbakernz)
-- [Websockets](https://github.com/ashbakernz/ashbakernz)
-- [Tls](https://github.com/ashbakernz/ashbakernz)
-- [Servidores Proxy](https://github.com/ashbakernz/ashbakernz)
-- [Servidor cache](https://github.com/ashbakernz/ashbakernz)
-- [DNS](https://github.com/ashbakernz/ashbakernz)
-- [Balanceamento de carga](https://github.com/ashbakernz/ashbakernz)
-- [Tolerância a falhas](https://github.com/ashbakernz/ashbakernz)
-- [Escalabilidade](https://github.com/ashbakernz/ashbakernz)
-- [Sonarqube](https://github.com/ashbakernz/ashbakernz)
-- [Owasp](https://github.com/ashbakernz/ashbakernz)
-- [Jenkins](https://github.com/ashbakernz/ashbakernz)
-- [Azure Pipeline](https://github.com/ashbakernz/ashbakernz)
-- [Github actions](https://github.com/ashbakernz/ashbakernz)
-- [Testes Unitarios](https://github.com/ashbakernz/ashbakernz)
-- [Testes de Integracão](https://github.com/ashbakernz/ashbakernz)
-- [Testes Unitarios](https://github.com/ashbakernz/ashbakernz)
-- [TDD](https://github.com/ashbakernz/ashbakernz)
-- [BDD](https://github.com/ashbakernz/ashbakernz)
+  - Http
+  - Http 2
+  - GRPC
+  - Websockets
+  - Tls
+  - Servidores Proxy
+  - Servidor cache
+  - DNS
+  - Balanceamento de carga
+  - Tolerância a falhas
+  - Escalabilidade em sistema web
+- [Princípios e práticas de DevOps e DevSecOps](https://github.com/ThaianeThaiane)
+- [Técnicas de desenvolvimento seguro](https://github.com/ThaianeThaiane)
+- [Testes de software](https://github.com/ThaianeThaiane)
+  - Testes Unitarios]
+  - Testes de Integracão
+  - Testes Unitario
+  - TDD
+  - BDD
+- [Arquitetura Limpa](https://github.com/ThaianeThaiane)
 - [Microserviço](https://github.com/ashbakernz/ashbakernz)
 - [Kubernetes](https://github.com/ashbakernz/ashbakernz)
-- [Docker Swarm](https://github.com/ashbakernz/ashbakernz)
-- [Api Kongo](https://github.com/ashbakernz/ashbakernz)
+- [Nginx](https://github.com/ashbakernz/ashbakernz)
 - [Data Driven](https://github.com/ashbakernz/ashbakernz)
 - [Arquitetura MVC](https://github.com/ashbakernz/ashbakernz)
 - [Azure functions](https://github.com/ashbakernz/ashbakernz)
 - [AWS Lambda](https://github.com/ashbakernz/ashbakernz)
-- [UX](https://github.com/ashbakernz/ashbakernz)
-- [UI](https://github.com/ashbakernz/ashbakernz)
-- [Comunicação Assíncrona](https://github.com/ashbakernz/ashbakernz)
-- [Rest](https://github.com/ashbakernz/ashbakernz)
-- [GoF](https://github.com/ashbakernz/ashbakernz)
-- [Grasp](https://github.com/ashbakernz/ashbakernz)
+
+- [Práticas de UX e UI design](https://github.com/ashbakernz/ashbakernz)
+  - Ux
+  - UI Design
+- [Programação Assíncrona](https://github.com/ashbakernz/ashbakernz)
+- [Restfull e GraphQL](https://github.com/ashbakernz/ashbakernz)
+- [Web Services](https://github.com/ashbakernz/ashbakernz)
+- [Design Patterns](https://github.com/ashbakernz/ashbakernz)
+  - GoF
+  - Grasp
 - [Git](https://github.com/ashbakernz/ashbakernz)
 - [Python](https://github.com/ashbakernz/ashbakernz)
 - [Java](https://github.com/ashbakernz/ashbakernz)
@@ -147,19 +149,70 @@ outros elementos de sequenciação textual
 
 
 #### Infraestructure 💫
-- [Kirill Feschenko](https://github.com/xcaq/xcaq)
-- [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
-
+- [Conceitos de infraestrutura como código e automação de infraestrutura de TI](https://github.com/xcaq/xcaq)   
+- [Docker, Kubernetes](https://github.com/xcaq/xcaq)
+   - Boas práticas para infraestrutura
+   - Orquestração de containers
+- [Serviços de Rede Microsoft Windows Server](https://github.com/anuraghazra/anuraghazra)
+  - DNS
+  - DHCP
+  - RADIUS
+  - Autenticação
+  - Certificados
+  - Active Directory (AD)
+- [Monitoração, observabilidade e análise de sistemas](https://github.com/anuraghazra/anuraghazra)
+  - Nagios
+  - Grafana
+  - Prometheus
+  - Grafana
+  - ElaticSearch e Kibana
+  - Performance Monitoring (APM)
+- [Computer Network Protocol](https://github.com/anuraghazra/anuraghazra)
+  - Simple Mail Transfer Protocol (SMTP)
+  - Hypertext Transfer Protocol (HTTP)
+  - Hypertext Transfer Protocol (HTTPS)
+  - SSL/TLS
+  - Lightweight Directory Access Protocol (LDAP)
+  - Network File System (NFS)
+  - Server Message Block (SMB)
+- [Tolerância a falhas e continuidade de operação](https://github.com/anuraghazra/anuraghazra)
+- [Implantação e administração de serviços de nuvem (IaaS, PaaS e SaaS)](https://github.com/anuraghazra/anuraghazra)
+- [Administração e gerenciamento de ambientes de virtualização](https://github.com/anuraghazra/anuraghazra)
+  - Vagrant
+  - Shell
+  - Powershell
+- [ Administração e operaçãode sistemas operacionais](https://github.com/anuraghazra/anuraghazra)
+  - Windows Server
+  - Linux
+- [Computer Network](https://github.com/anuraghazra/anuraghazra)
+  - LAN
+  - WAN
+  - SDN
+- [Devops](https://github.com/anuraghazra/anuraghazra)
+  - Puppet
+  - Ansible
+  
 
 #### Database 😃
-- [Raymond Li](https://github.com/Raymo111/Raymo111)
-- [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
-- [Adam Alston](https://github.com/adamalston/adamalston)
+- [SGBDs SQL e NOSQL](https://github.com/Raymo111/Raymo111)
+  - Modelagem de dados
+    - Relacional
+    - Multidimensional
+    - SQL
+    - PLSQL
+    - BI
+- [Inteligência de Negócio](https://github.com/Raymo111/Raymo111)
+  - DataWareshouse
+  - Datamart
+  - DataLake
+  - DataMesh
+
 
 #### It Management 🗒
-- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
-- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
-
+- [Kanban] (https://github.com/filiptronicek/filiptronicek)
+- [Scrum](https://github.com/garimasingh128/garimasingh128)
+- [Governança de dados](https://github.com/garimasingh128/garimasingh128)
+- [ITIL V4](https://github.com/garimasingh128/garimasingh128)
 
 #### Bussiness 🎫
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -167,15 +220,61 @@ outros elementos de sequenciação textual
 
 
 #### Math 🖋
-- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
-- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
-- [lizheming](https://github.com/lizheming/lizheming)
+- [Raciocínio lógico](https://github.com/filiptronicek/filiptronicek)
+  - Estrutura lógicas
+  - Lógica de argumentação:
+    - Analogias
+    - Inferências
+    - Deduções
+    - Conclusões
+  - Lógica sentencial (ou proposicional):
+    - Proposições simples e compostas. 
+    - Tabelas-verdade
+    - Equivalências
+    - Leis de Morgan
+    - Problemas
+- [Estatística](https://github.com/garimasingh128/garimasingh128)
+  - Noções de estatśtica:
+    - Populaçâo e Amostra
+    - Histograma e curvas de frequência
+  - Medidas de posição:
+    - Media
+    - Moda
+    - Mediana
+    - Sepatrizes
+  - Medias de dispersão:
+    - Absoluta
+    - Relativa
+  - Probabilidade:
+    - Condicional
+    - independência
+  - Variáveis e funçôes:
+    - variavéis aleatória
+    - funções de distribuiçâo
+  
 
 
 #### Economy 👾
-- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
-- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
-- [lizheming](https://github.com/lizheming/lizheming)
+- [Macroeconomia](https://github.com/filiptronicek/filiptronicek)
+  - Contas Nacionais
+  - Agregados Monetários
+  - Multiplicador Monetário:
+    - Criação de moedas
+    - Distruição de moedas
+  - Contas do sistema monetário
+  - Balanço de Pagamento
+- [Microeconomia](https://github.com/garimasingh128/garimasingh128)
+  - Estrutura de mercado:
+    - Fromas de organizaçâo da atividade econômica
+    - Papel dos preços
+    - Custo de oportunidade e fronteiras das possibilidades de produçâo
+  - Oferta e Demanda:
+    - Curva de indiferença
+    - Restrição orçamentária
+    - Equilíbrio do consumidor
+    - Efeitos preço, renda e substituição
+    - Curva de demanda
+    - Elasticidade da demanda
 
 
 ## Tools
