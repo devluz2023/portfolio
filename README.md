@@ -26,22 +26,13 @@
 
 ### Contents:
   - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
+      - [Data Science 🤖](#github-actions-)
+      - [Security 🚀](#game-mode-)
+      - [Sofware Engineering 👨🏽‍💻](#code-mode-)
+      - [Infraestructure 💫](#dynamic-realtime-)
+      - [Database 😃](#a-little-bit-of-everything-)
+      - [It Management 🗒](#descriptive-)
+
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
@@ -51,7 +42,7 @@
 
 ## Categories
 
-#### GitHub Actions 🤖
+#### Data Science 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
@@ -84,7 +75,7 @@
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
 
-#### Game Mode 🚀
+#### Security 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 - [Kavish Hukmani](https://github.com/DoubleGremlin181/DoubleGremlin181)
@@ -94,7 +85,7 @@
 - [Aaron Liu](https://github.com/HFO4/HFO4)
 - [marcizhu](https://github.com/marcizhu/marcizhu)
 
-#### Code Mode 👨🏽‍💻
+#### Software Engineering 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
@@ -103,7 +94,7 @@
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
-#### Dynamic Realtime 💫
+#### Infraestructure 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
@@ -121,7 +112,7 @@
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
 
-#### A Little Bit of Everything 😃
+#### Database😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
@@ -142,7 +133,7 @@
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
 
-#### Descriptive 🗒
+#### It Management 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
@@ -154,126 +145,6 @@
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
 
-#### Simple but Innovative Ones 🤗
-- [Nate Moore](https://github.com/natemoo-re/natemoo-re)
-- [Jhey Tompkins](https://github.com/jh3y/jh3y)
-- [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
-- [Vansh Kapoor](https://github.com/vanshkapoor/vanshkapoor)
-- [Harsh Kumar Khatri](https://github.com/harshkumarkhatri/harshkumarkhatri)
-- [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu)
-- [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007)
-- [Anurag Singh](https://github.com/ashleymavericks/ashleymavericks)
-- [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli)
-- [Vinit Shahdeo](https://github.com/vinitshahdeo/vinitshahdeo/)
-- [Fatih Kadir Akın](https://github.com/f/f/)
-- [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
-- [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
-- [alx365](https://github.com/alx365/alx365)
-- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
-- [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
-- [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
-- [vaaski](https://github.com/vaaski/vaaski)
-- [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
-- [Yash Sahijwani](https://github.com/Terabyte17/Terabyte17)
-- [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
-- [Tushar Mittal](https://github.com/techytushar/techytushar)
-- [Onimur](https://github.com/onimur/onimur)
-- [Bruno Tacca](https://github.com/brunotacca/brunotacca)
-- [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
-
-#### Typing.. Mode 🎰
-- [Mathieu Ledru](https://github.com/matyo91/matyo91)
-- [CyrisXD](https://github.com/CyrisXD/CyrisXD)
-- [Mpho Mphego](https://github.com/mmphego/mmphego)
-- [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
-- [Mason Slover](https://github.com/MasonSlover/MasonSlover)
-- [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
-
-#### Anime 👾
-- [Ing](https://github.com/innng/innng)
-- [edisonlee55](https://github.com/edisonlee55/edisonlee55)
-- [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
-- [Yukii](https://github.com/PrincessAkira/PrincessAkira)
-
-#### Minimalistic ✨
-- [Caneco](https://github.com/caneco/)
-- [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
-- [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
-- [Ghazi Khan](https://github.com/gkhan205)
-- [Pratik Kumar](https://github.com/pr2tik1/pr2tik1)
-- [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
-- [MrStanDu33](https://github.com/MrStanDu33/MrStanDu33)
-- [Jayraj Roshan](https://github.com/jayrajroshan/jayrajroshan)
-- [amxchang](https://github.com/amxchang/amxchang)
-- [ridermansb](https://github.com/Ridermansb/Ridermansb)
-- [Maximous Black](https://github.com/maximousblk/maximousblk)
-- [Alex Martin](https://github.com/AlexMartinFR/AlexMartinFR)
-- [ChungZH](https://github.com/ChungZH/ChungZH/)
-- [Orhun](https://github.com/orhun/orhun)
-- [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
-- [Federico Dondi](https://github.com/federico-dondi)
-- [Zheeeng](https://github.com/Zheeeng/Zheeeng)
-- [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
-- [Stefanie Grunwald](https://github.com/moertel/moertel)
-- [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
-
-#### GIFS 👻
-- [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
-- [Ari](https://github.com/ari-hacks/ari-hacks)
-- [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
-- [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
-- [Shubham Kumar](https://github.com/imskr/imskr)
-- [Duncan](https://github.com/dephraiim/dephraiim)
-- [Demartini](https://github.com/demartini/demartini)
-- [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus)
-- [Pranjal Bhardwaj](https://github.com/Bhard27/Bhard27)
-- [Okan Koçyiğit](https://github.com/okankocyigit/okankocyigit)
-- [Raghav Khullar](https://github.com/RaghavK16/RaghavK16)
-- [xrkffgg](https://github.com/xrkffgg/xrkffgg)
-- [Kevin Cui](https://github.com/KevCui/KevCui)
-- [Muskan Rani](https://github.com/muskanrani/muskanrani)
-- [Rishav Anand](https://github.com/rishavanand/rishavanand)
-- [KelviNosse](https://github.com/KelviNosse/KelviNosse)
-- [nilfalse](https://github.com/nilfalse/nilfalse)
-- [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
-- [Somnath Paul](https://github.com/SP-XD/SP-XD)
-- [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
-
-#### Just Images 🎭
-- [Zack Krida](https://github.com/zackkrida/zackkrida)
-- [偏右](https://github.com/afc163/afc163)
-- [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
-- [Akash Rai](https://github.com/akasrai/akasrai)
-- [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
-- [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
-
-#### Badges 🎫
-- [Harish Kumar S S](https://github.com/harish-sethuraman/harish-sethuraman)
-- [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
-- [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
-- [Alwin Wang](https://github.com/alwinw/alwinw)
-- [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
-- [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
-- [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
-- [Char-Al](https://github.com/char-al/char-al)
-- [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
-- [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
-- [Raphael Ebner](https://github.com/rafi0101/rafi0101)
-
-#### Fancy Fonts 🖋
-- [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
-
-#### Icons 🎯
-- [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
-- [Hussainweb](https://github.com/hussainweb/hussainweb)
-- [Peter Han](https://github.com/peterthehan/peterthehan)
-- [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
-- [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
-- [Valentin Briand](https://github.com/vbriand/vbriand)
-
-#### Retro 😎
-- [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
-- [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
