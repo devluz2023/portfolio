@@ -1,26 +1,6 @@
 CONHECIMENTOS BÁSICOS PARA TODOS OS CARGOS
 # LÍNGUA PORTUGUESA (25): 
 1. Compreensão e interpretação de textos de gêneros variados. 
-
-Narrativo: Conta uma história ou descreve uma série de eventos, geralmente seguindo uma sequência temporal. Exemplos incluem contos, romances e crônicas.
-
-Descritivo: Tem como objetivo principal descrever algo de forma detalhada, usando linguagem sensorial para criar imagens vívidas na mente do leitor. Descrições de lugares, pessoas ou objetos são comuns nesse tipo de texto.
-
-Argumentativo: Apresenta um ponto de vista sobre um tema específico e busca persuadir o leitor a concordar com essa posição. Utiliza argumentos, evidências e raciocínio lógico para sustentar sua tese.
-
-Expositivo: Visa explicar, informar ou ensinar sobre um assunto específico de forma clara e objetiva. Pode incluir definições, explicações de processos, análises de dados, entre outros.
-
-Instrucional: Fornece instruções passo a passo sobre como realizar uma tarefa ou atividade. Manuais, guias e receitas são exemplos desse tipo de texto.
-
-Poético: Utiliza recursos literários como ritmo, rima e metáfora para expressar emoções, sentimentos e ideias de forma artística e esteticamente agradável. Poesias e poemas são exemplos desse tipo de texto.
-
-Jornalístico: Tem como objetivo informar o público sobre eventos atuais, notícias e acontecimentos relevantes. Pode incluir reportagens, artigos de opinião, entrevistas, entre outros formatos.
-
-Científico: Apresenta informações sobre descobertas, pesquisas e estudos científicos de forma precisa, utilizando uma linguagem técnica e seguindo padrões específicos de redação científica.
-
-Acadêmico: Utilizado em contextos acadêmicos, como trabalhos de pesquisa, artigos científicos, teses e dissertações. Segue normas específicas de formatação e apresentação, e visa contribuir para o conhecimento em uma determinada área.
-
-
 2. Reconhecimento de tipos e gêneros textuais. 3 Domínio da ortografia oficial. 4 Domínio dos mecanismos de
 coesão textual. 4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de
 outros elementos de sequenciação textual. 4.2 Emprego de tempos e modos verbais. 5 Domínio da estrutura
