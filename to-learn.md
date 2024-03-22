@@ -1,15 +1,45 @@
+Senior Software Engineer, Artificial Intelligence
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+Candidates will typically have 5 years of experience with software development in one or more programming languages, and with data structures/algorithms.
+Typically 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+Experience in AI/ML related engineering, developing, deploying, managing, and maintaining Machine Learning infrastructure.
+Experience in Python and deep learning for computer vision and NLP.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or a related technical field.
+Understanding of data engineering practices and principles (e.g., tools, processes, pipelines etc.).
+Excellent communication and collaboration skills.
+
+About the job
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and inte
+ract with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Our AI and Engineering teams work alongside our pedagogy team to surface high-quality, accurate content that reflects the clearest and most modern ways to explain and solve math problems.
+
+Learning is the ongoing quest for understanding, and we made it our mission more than 20 years ago to organize the world’s information to make it universally accessible and useful. The learning landscape is changing, and the Learning and Education team's mission is to help everyone in the world learn anything in the world. We provide the information, tools, and services that help people gain knowledge, fuel curiosity, and prepare for what’s next. We focus our work to add the most value for users to enable learning for school, work, and life. We believe everyone can and should have access to quality learning experiences to reach their full potential.
+
+Responsibilities
+Research, develop, plan, and implement Machine Learning software solutions. Develop, manage, and maintain Machine Learning infrastructure.
+Work with other team members to build upon our data collection, storage, and processing infrastructure.
+Propose new ideas how AI can improve our products and internal processes and systems.
+Conduct research and implement solutions by following best practices of software engineering and maintaining high precision and scientific principles.
+Propose improvements of the team's processes and practices. Demonstrate growth mindset, self-reflection and provide feedback to other team members, peers, and managers.
+
 CONHECIMENTOS BÁSICOS PARA TODOS OS CARGOS
-# LÍNGUA PORTUGUESA (25): 
-1. Compreensão e interpretação de textos de gêneros variados. 
+
+# LÍNGUA PORTUGUESA (25):
+
+1. Compreensão e interpretação de textos de gêneros variados.
 2. Reconhecimento de tipos e gêneros textuais. 3 Domínio da ortografia oficial. 4 Domínio dos mecanismos de
-coesão textual. 4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de
-outros elementos de sequenciação textual. 4.2 Emprego de tempos e modos verbais. 5 Domínio da estrutura
-morfossintática do período. 5.1 Emprego das classes de palavras. 5.2 Relações de coordenação entre orações
-e entre termos da oração. 5.3 Relações de subordinação entre orações e entre termos da oração. 5.4 Emprego
-dos sinais de pontuação. 5.5 Concordância verbal e nominal. 5.6 Regência verbal e nominal. 5.7 Emprego do
-sinal indicativo de crase. 5.8 Colocação dos pronomes átonos. 6 Reescrita de frases e parágrafos do texto. 6.1
-Significação das palavras. 6.2 Substituição de palavras ou de trechos de texto. 6.3 Reorganização da estrutura 
-de orações e de períodos do texto. 6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
+   coesão textual. 4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de
+   outros elementos de sequenciação textual. 4.2 Emprego de tempos e modos verbais. 5 Domínio da estrutura
+   morfossintática do período. 5.1 Emprego das classes de palavras. 5.2 Relações de coordenação entre orações
+   e entre termos da oração. 5.3 Relações de subordinação entre orações e entre termos da oração. 5.4 Emprego
+   dos sinais de pontuação. 5.5 Concordância verbal e nominal. 5.6 Regência verbal e nominal. 5.7 Emprego do
+   sinal indicativo de crase. 5.8 Colocação dos pronomes átonos. 6 Reescrita de frases e parágrafos do texto. 6.1
+   Significação das palavras. 6.2 Substituição de palavras ou de trechos de texto. 6.3 Reorganização da estrutura
+   de orações e de períodos do texto. 6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
 
 NOÇÕES DE LÓGICA E ESTATÍSTICA (10): 1 Raciocínio lógico. 1.1 Estruturas lógicas. 1.2 Lógica de
 argumentação: analogias, inferências, deduções e conclusões. 1.3 Lógica sentencial (ou proposicional). 10.3.1
@@ -19,7 +49,7 @@ Medidas de posição: média, moda, mediana e separatrizes. 2.4 Medidas de dispe
 Probabilidade condicional, independência. 2.6 Variável aleatória e funções de distribuição.
 
 DIREITO ADMINISTRATIVO (5): 1 Administração pública: princípios básicos. 1.1 Administração direta e
-indireta. 2 Poderes administrativos. 2.1 Espécies de poder: hierárquico, disciplinar, regulamentar, de polícia e
+indireta. 2 Poderes administrativos. 2.1 Espécies de poder: hierárquico, cd disciplinar, regulamentar, de polícia e
 normativo. 2.2 Uso e abuso do poder. 3 Organização administrativa brasileira. 3.1 Serviços públicos: conceito
 e princípios. 3.2 Autarquias, agências reguladoras, agências executivas, fundações públicas, empresas
 públicas, sociedades de economia mista. 4 Ato administrativo. 4.1 Conceito, requisitos e atributos. 4.2
@@ -45,7 +75,6 @@ ATUALIDADES (SOMENTE PARA A PROVA DISCURSIVA): 1 Tópicos relevantes e atuais de
 como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia,
 relações internacionais, desenvolvimento sustentável e ecologia.
 
-
 CONHECIMENTOS ESPECÍFICOS
 CARGO 1: ANALISTA - ÁREA 1 - TECNOLOGIA DA INFORMAÇÃO
 CIÊNCIA DE DADOS (14): 1 Aprendizado de Máquina. 2 Deep learning. 3 Processamento de linguagem natural.
@@ -59,13 +88,12 @@ SEGURANÇA DA INFORMAÇÃO (7): 1 Gestão de Identidades e Acesso: Autenticaçã
 Sign-On (SSO), Security Assertion Markup Language (SAML), OAuth2 e OpenId Connect. 2 Privacidade e
 segurança por padrão. 3 Principais tipos de ataques e vulnerabilidades. 4 Controles e testes de segurança
 para aplicações Web e Web Services. 5 Múltiplos Fatores de Autenticação (MFA). 6 Soluções para Segurança
-da Informação: Firewall, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Security 
+da Informação: Firewall, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Security
 Information and Event Management (SIEM), Proxy, Identity Access Management (IAM), Privileged Access
 Management (PAM), Antivírus, Antispam. 7 Frameworks de segurança da informação e segurança
 cibernética, como, por exemplo, MITRE ATT&CK, CIS Controls e NIST CyberSecurity Framework (NIST CSF). 8
 Tratamento de Incidentes Cibernéticos. 9 Assinatura e certificação digital, criptografia e proteção de dados
 em trânsito e em repouso. 10 Segurança em nuvens e de contêineres.
-
 
 ENGENHARIA DE SOFTWARE (24): 1 Arquitetura de sistemas web: protocolo HTTP, HTTP/2, gRPC,
 WebSockets, TLS, servidores proxy, cache, DNS, balanceamento de carga, tolerância a falhas e escalabilidade

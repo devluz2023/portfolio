@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TestaEncontraMenores",
+            "request": "launch",
+            "mainClass": "br.com.alura.notas.TestaEncontraMenores",
+            "projectName": "notas"
+        },
+        {
+            "type": "java",
+            "name": "TestaIntercalaEmUmArray",
+            "request": "launch",
+            "mainClass": "br.com.alura.notas.TestaIntercalaEmUmArray",
+            "projectName": "notas"
+        },
+        {
+            "type": "java",
+            "name": "TestaMerge",
+            "request": "launch",
+            "mainClass": "br.com.alura.notas.TestaMerge",
+            "projectName": "notas"
+        },
+        {
+            "type": "java",
+            "name": "TestaOrdenacaoAoIntercalar",
+            "request": "launch",
+            "mainClass": "br.com.alura.notas.TestaOrdenacaoAoIntercalar",
+            "projectName": "notas"
+        },
+        {
+            "type": "java",
+            "name": "TestaOrdenacaoRapida",
+            "request": "launch",
+            "mainClass": "br.com.alura.notas.TestaOrdenacaoRapida",
+            "projectName": "notas"
+        },
+        {
+            "type": "java",
+            "name": "TestaPivota",
+            "request": "launch",
+            "mainClass": "br.com.alura.notas.TestaPivota",
+            "projectName": "notas"
+        }
+    ]
+}
