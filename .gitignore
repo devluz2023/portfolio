@@ -1,0 +1,59 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de construção e diretórios
+target/
+bin/
+out/
+
+# Arquivos gerados pelo IDE Eclipse
+.settings/
+.classpath
+.project
+
+# Arquivos gerados pelo IDE IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de configuração do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Arquivos de logs e temporários
+*.log
+*.log.*
+logs/
+temp/
+# Byte-compiled / compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Python env
+venv/
+env/
+env_bak/
+*.env
+
+# Logs and databases
+*.log
+*.sqlite3
+.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+venv/
+env/
+lib/
+libs/
+lib64/
