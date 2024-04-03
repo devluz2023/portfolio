@@ -1,0 +1,49 @@
+version: "3"
+
+services:
+  mysql:
+    image: mysql:latest
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: examplepass
+      MYSQL_DATABASE: nagios_db
+      MYSQL_USER: nagios_user
+      MYSQL_PASSWORD: nagiospass
+
+  nagios:
+    image: jasonrivers/nagios:latest
+    container_name: nagios
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nagios/etc:/opt/nagios/etc
+      - ./nagios/var:/opt/nagios/var
+      - ./nagios/plugins:/opt/Custom-Nagios-Plugins
+    environment:
+      - NAGIOSADMIN_USER=admin
+      - NAGIOSADMIN_PASS=adminpass
+      - NAGIOS_TIMEZONE=UTC
+      - NAGIOS_CONTACT_NAME='Your Name'
+      - NAGIOS_CONTACT_EMAIL='your@email.com'
+      - NAGIOS_CONTACT_PAGER=''
+
+    depends_on:
+      - mysql
+    links:
+      - mysql
+
+  nrpe:
+    image: jasonrivers/nagios-nrpe-server:latest
+    container_name: nrpe
+    ports:
+      - "5666:5666"
+    environment:
+      - NRPE_SSL=0
+      - NAGIOS_SERVER=nagios
+      - NAGIOS_PORT=5666
+
+    depends_on:
+      - nagios
+    links:
+      - nagios

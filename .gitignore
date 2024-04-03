@@ -57,3 +57,37 @@ env/
 lib/
 libs/
 lib64/
+# Dependências
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ambiente de desenvolvimento
+.env
+.env.local
+.env.*.local
+
+# Arquivos de build
+build/
+dist/
+out/
+*.js
+*.map
+
+# Logs e arquivos temporários
+logs/
+*.log
+*.tmp
+
+# Arquivos de configuração
+*.config.js
+*.config.ts
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cache e diretórios temporários
+.cache/
+.tmp/
+temp/
