@@ -1,0 +1,1 @@
+O firewall verifica algumas informações a respeito dos pacotes das conexões e conforme as regras previamente estabelecidas, ele permite ou não o acesso. Funciona de forma parecida com um segurança que fica na entrada de festas analisando quem pode ou não passar.
