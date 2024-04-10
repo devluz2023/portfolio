@@ -124,30 +124,21 @@ DataWarehouse, DataMart, DataLake, DataMesh.
 GESTÃO EM TI (4): 1 Kanban. 2 Scrum. 3 Governança de Dados. 4 ITIL v4.
 
 # Agile data science
-
 Preface, Part I. Setup, 1. Theory:
 Introduction, Definition, Methodology as Tweet, Agile Data Science Manifesto, The Problem with the Waterfall, Research Versus Application Development, The Problem with Agile Software, Eventual Quality: Financing Technical Debt, The Pull of the Waterfall, The Data Science Process, Setting Expectations, Data Science Team Roles, Recognizing the Opportunity and the Problem, Adapting to Change, Notes on Process, Code Review and Pair Programming, Agile Environments: Engineering Productivity, Realizing Ideas with Large-Format Printing,
-
 Agile Tools:
 Scalability = Simplicity, Agile Data Science Data Processing, Local Environment Setup, System Requirements, Setting Up Vagrant, Downloading the Data (EC2 Environment Setup), Getting and Running the Code (Jupyter Notebooks), Touring the Toolset, Agile Stack Requirements (Python 3, Serializing Events with JSON Lines and Parquet, Collecting Data, Data Processing with Spark, Publishing Data with MongoDB, Searching Data with Elasticsearch, Distributed Streams with Apache Kafka, Processing Streams with PySpark Streaming, Machine Learning with scikit-learn and Spark MLlib, Scheduling with Apache Airflow (Incubating), Reflecting on Our Workflow, Lightweight Web Applications, Presenting Our Data,
-
 Data:
 Air Travel Data, Flight On-Time Performance Data, OpenFlights Database, Weather Data, Data Processing in Agile Data Science, Structured Versus Semistructured Data, SQL Versus NoSQL, Spark: SQL + NoSQL, Schemas in NoSQL, Data Serialization, Extracting and Exposing Features in Evolving Schemas,
-
 Part II. Climbing the Pyramid, 4. Collecting and Displaying Records:
 Putting It All Together, Collecting and Serializing Flight Data, Processing and Publishing Flight Records, Publishing Flight Records to MongoDB, Presenting Flight Records in a Browser, Serving Flights with Flask and pymongo, Rendering HTML5 with Jinja2, Agile Checkpoint, Listing Flights, Paginating Data, Searching for Flights, Creating Our Index, Publishing Flights to Elasticsearch, Searching Flights on the Web,
-
 Visualizing Data with Charts and Tables:
 Chart Quality: Iteration Is Essential, Scaling a Database in the Publish/Decorate Model, Exploring Seasonality, Querying and Presenting Flight Volume, Extracting Metal (Airplanes [Entities]), Extracting Tail Numbers, Assessing Our Airplanes, Data Enrichment, Reverse Engineering a Web Form, Gathering Tail Numbers, Automating Form Submission, Extracting Data from HTML, Evaluating Enriched Data,
-
 Exploring Data with Reports:
 Extracting Airlines (Entities), Defining Airlines as Groups of Airplanes Using PySpark, Querying Airline Data in Mongo, Building an Airline Page in Flask, Linking Back to Our Airline Page, Creating an All Airlines Home Page, Curating Ontologies of Semi-structured Data, Improving Airlines, Adding Names to Carrier Codes, Incorporating Wikipedia Content, Publishing Enriched Airlines to Mongo, Enriched Airlines on the Web, Investigating Airplanes (Entities),
-
 Making Predictions:
 The Role of Predictions, Predict What?, Introduction to Predictive Analytics, Making Predictions, Exploring Flight Delays, Extracting Features with PySpark, Building a Regression with scikit-learn, Building a Classifier with Spark MLlib,
-
 Deploying Predictive Systems:
 Deploying a scikit-learn Application as a Web Service, Deploying Spark ML Applications in Batch with Airflow, Automating Our Workflow with Apache Airflow (Incubating), Deploying Spark ML via Spark Streaming,
-
 Improving Predictions:
 Fixing Our Prediction Problem, When to Improve Predictions, Improving Prediction Performance, Time of Day as a Feature, Incorporating Airplane Data, Incorporating Flight Time,
