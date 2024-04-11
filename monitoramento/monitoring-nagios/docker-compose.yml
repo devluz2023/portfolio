@@ -1,0 +1,45 @@
+---
+# This compose file acts as an example on using docker volumes for nagios
+# configuration. As nagios configurations are different for each site they are
+# not considered part of the container image. The best way to deal with the
+# configurations is to store them in a volume allowing the user to upgrade the
+# image without the need to extract the site configuration from the container.
+
+version: "3"
+services:
+  mysql:
+    image: mysql:latest
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: examplepass
+      MYSQL_DATABASE: nagios_db
+      MYSQL_USER: nagios_user
+      MYSQL_PASSWORD: nagiospass
+
+  nagios:
+    image: jasonrivers/nagios:latest
+    ports:
+      - "8080:80"
+    volumes:
+      - nagiosetc:/opt/nagios/etc
+      - nagiosvar:/opt/nagios/var
+      - customplugins:/opt/Custom-Nagios-Plugins
+      - nagiosgraphvar:/opt/nagiosgraph/var
+      - nagiosgraphetc:/opt/nagiosgraph/etc
+    environment:
+      - NAGIOSADMIN_USER=admin
+      - NAGIOSADMIN_PASS=adminpass
+
+    depends_on:
+      - mysql
+    links:
+      - mysql
+
+  
+volumes:
+  nagiosetc:
+  nagiosvar:
+  customplugins:
+  nagiosgraphvar:
+  nagiosgraphetc:
