@@ -26,6 +26,12 @@ Propose new ideas how AI can improve our products and internal processes and sys
 Conduct research and implement solutions by following best practices of software engineering and maintaining high precision and scientific principles.
 Propose improvements of the team's processes and practices. Demonstrate growth mindset, self-reflection and provide feedback to other team members, peers, and managers.
 
+The Senior Software Engineer – Cloud Infrastructure will develop and operate our planet-scale
+Kubernetes Platform for running microservices to power our Observability and Security
+products across the world. Will provide consistent and seamless interfaces that enable our
+microservices to leverage key Kubernetes and underlying cloud features. Allow microservices to
+run securely and efficiently without interruption. Make your customers developers happy!
+
 CONHECIMENTOS BÁSICOS PARA TODOS OS CARGOS
 
 # LÍNGUA PORTUGUESA (25):
@@ -124,6 +130,7 @@ DataWarehouse, DataMart, DataLake, DataMesh.
 GESTÃO EM TI (4): 1 Kanban. 2 Scrum. 3 Governança de Dados. 4 ITIL v4.
 
 # Agile data science
+
 Preface, Part I. Setup, 1. Theory:
 Introduction, Definition, Methodology as Tweet, Agile Data Science Manifesto, The Problem with the Waterfall, Research Versus Application Development, The Problem with Agile Software, Eventual Quality: Financing Technical Debt, The Pull of the Waterfall, The Data Science Process, Setting Expectations, Data Science Team Roles, Recognizing the Opportunity and the Problem, Adapting to Change, Notes on Process, Code Review and Pair Programming, Agile Environments: Engineering Productivity, Realizing Ideas with Large-Format Printing,
 Agile Tools:
