@@ -54,5 +54,70 @@ do, make sure you know how to answer the following questions:
     instances, what is happening? Can you name three possible solutions?
 32. What is a test set and why would you want to use it?
 
-Equation 2-1. Root Mean Square Error (RMSE)
-RMSE X, h = m1 i ∑m=1 h x i − y i 2
+1. A Lei 8.112/1990 é aplicável a todos os funcionários públicos federais? 
+2. Qual a única forma de provimento originário atualmente compatível com a CF? 
+3. A investidura em cargo em comissão resulta em estabilidade? 
+4. Quais as categorias de provimento derivado? 
+5. Quais as condições que possibilitam a reversão a pedido? 
+6. Segundo a Lei 8.112/90, para que seja possível a reintegração, a decisão que invalida a 
+demissão do servidor deve ser administrativa ou judicial? 
+7. Segundo a Lei 8.112/90, quais as situações que ensejam a recondução? 
+8. Qual o prazo para que o nomeado tome posse? Esse prazo é prorrogável? 
+9. Quais os requisitos para investidura em cargo público? 
+10. O que acontece se o servidor não entrar em exercício no prazo previsto? 
+11. Quais os limites da jornada de trabalho dos servidores federais? 
+12. Quais os fatores de avaliação do servidor em estágio probatório? 
+13. Qual o prazo de duração do estágio probatório? 
+14. A aprovação em estágio probatório se confunde com aquisição de estabilidade? 
+15. Quais licenças e afastamentos não podem ser gozadas pelo servidor em estágio probatório? 
+16. Quais casos em que a vacância de um cargo implica o provimento de outro? 
+17. Quais hipóteses de vacância constituem sanção disciplinar? 
+18. Qual a diferença da remoção para a redistribuição? 
+19. Em quais hipóteses o substituto deve assumir o exercício do cargo ou função de direção ou 
+chefia e os cargos de Natureza Especial?  
+20. Na substituição, o substituto deixa de exercer as atribuições de seu cargo e passa a exercer 
+as atribuições do substituído? 
+21. Qual o piso remuneratório do servidor público federal? 
+22. Em quais casos de deslocamento o servidor não fará jus a diárias? 
+23. O servidor pode receber cumulativamente os adicionais de insalubridade e de 
+periculosidade? 
+24. Quais servidores fazem jus ao recebimento de adicional de atividade penosa? 
+25. As férias podem ser interrompidas em quais situações? 
+26. Quais licenças se dão sem prejuízo da remuneração do servidor? 
+27. Qual o prazo máximo que o servidor pode ficar em licença para tratamento de saúde? 
+28. Qual a penalização aplicável em caso de inobservância do dever funcional previsto em lei? 
+29. Qual a diferença da responsabilização civil, penal e administrativa do servidor? 
+30. Em quais casos as conclusões do processo de responsabilização penal repercutem na 
+responsabilização administrativa? 
+31. Quais as penalidades disciplinares podem ser aplicadas aos servidores públicos federais? 
+32. A aplicação da penalidade, em caso de infração, é ato vinculado ou discricionário? 
+33. Qual o prazo de duração da penalidade de suspensão? O servidor suspenso recebe 
+remuneração? 
+34. Qual a diferença entre abandono de cargo e inassiduidade habitual? 
+35. Quais os efeitos acessórios resultantes das infrações puníveis com demissão em que houver 
+prejuízo aos cofres públicos? 
+36. O que é cassação de aposentadoria? 
+37. O que é cassação de disponibilidade? 
+38. Em que hipótese se aplica a pena de destituição de cargo em comissão? 
+39. Quais os prazos prescricionais da ação disciplinar? 
+40. Quais os mecanismos de apuração de responsabilidades previstos na Lei 8.112/90? 
+41. É possível o início de um processo administrativo disciplinar sem prévia sindicância? 
+42. Quais os possíveis resultados da sindicância? 
+43. Quem é o responsável por conduzir o processo disciplinar? 
+44. Há previsão de medida cautelar para evitar a interferência na apuração da irregularidade por 
+parte do servidor que esteja respondendo ao processo disciplinar? 
+45. O servidor pode ser exonerado a pedido enquanto estiver respondendo a processo 
+disciplinar? 
+46. Quais as fases do processo disciplinar? 
+47. O que acontece caso o indiciado regularmente citado não apresente defesa no prazo legal? 
+48. A autoridade julgadora pode não acatar a conclusão do relatório? 
+49. É possível admitir a simples alegação de injustiça como fundamento suficiente para que 
+ocorra a revisão do processo disciplinar? 
+50. É possível o agravamento da penalidade em razão da revisão do processo disciplinar? 
+51. Qual prazo máximo para que seja requeria a revisão do processo disciplinar? 
+52. A quem cabe o ônus da prova, na revisão do processo disciplinar? 
+53. Em que situações se aplica o rito sumário de apuração e julgamento? 
+54. Na hipótese de acumulação ilegal de cargos, empregos ou funções públicas, qual a medida 
+a ser adotada pela autoridade competente previamente à instauração do procedimento sumário 
+de apuração e regularização? 
+55. Quais as fases do procedimento sumário? 

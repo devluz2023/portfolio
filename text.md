@@ -176,6 +176,38 @@ atividade não fossem ainda maiores. O PIB do setor avançou 2%
 sobre o ano anterior, enquanto o da indústria recuou 3,5% e o dos
 serviços, 4,5%.
 
+A cibersegurança, embora seja um tema há muito
+discutido em âmbito global, é um campo relativamente novo no
+Brasil. No entanto, tem ganhado destaque por conta da intensa
+migração de dados para ambientes em nuvem e da interconexão
+praticamente global de dispositivos na Internet. A proliferação de
+dispositivos conectados à Internet, desde eletrodomésticos até
+equipamentos industriais, aumentou consideravelmente a
+superfície de ataque, transformando o cenário de riscos. O que
+antes parecia ficção científica, como geladeiras ou medidores de
+pressão de gasodutos conectados à rede de computadores, agora é
+uma realidade tangível.
+Entretanto, a adoção apressada de tecnologias conectadas
+à Internet muitas vezes ocorre sem a devida atenção à segurança.
+Essa falta de consideração em relação à cibersegurança pode
+expor empresas a riscos substanciais, pois a falta de preparação e
+avaliação da superfície de ataque pode permitir que brechas
+sejam exploradas por agentes maliciosos.
+Uma das principais questões, quando se fala em
+cibersegurança, é a de que não existe uma “bala de prata”, ou
+seja, uma solução única para todas as falhas que podem ocorrer.
+Cada organização possui características, riscos e necessidades
+distintos, o que exige a criação de soluções personalizadas para
+mitigar ameaças específicas.
+Nesse sentido, a Lei Geral de Proteção de Dados (LGPD)
+desempenhou um papel significativo no cenário de cibersegurança
+ao estabelecer diretrizes para a prevenção de vazamentos e a
+proteção de dados. Empresas são agora obrigadas a adotar medidas
+proativas para evitar incidentes de segurança e garantir a
+privacidade dos dados. O investimento em cibersegurança deve ser
+entendido como um seguro de carro: deve-se investir na prevenção
+para minimizar os danos de um eventual incidente.
+
 Durante a primeira metade do século XX, o mundo
 passou por uma radicalização política que culminou em duas
 grandes guerras mundiais. Naquela época, o Ministério das
@@ -200,114 +232,6 @@ vantagem competitiva, e as organizações que não tomam
 medidas concretas para conseguir isso terão dificuldade em
 acompanhar o mercado.
 
-# Segurança pública brasileira: responsáveis, números e desafios
-
-A segurança pública é um tema que, de forma praticamente diária, está em pauta na imprensa brasileira. A sensação de insegurança e o medo estáão presentes na vida de grande parte da sociedade civil brasileira, principalmente nos grandes centros urbanos.
-
-Assim como o acesso à saúde, à educação e à moradia, a garantia de ir e vir com segurança é um direito fundamental previsto pela Constituição Federal de 1988, sendo dever do Estado assegurá-lo.
-
-Neste texto, você vai conhecer os órgãos responsáveis pela segurança pública no Brasil. Além disso, você vai entender quais as problemáticas ligadas ao tema, algumas políticas públicas que visam diminuir a falta de segurança e também como essa sensação é mensurada.
-
-Quem é o responsável pela segurança pública no Brasil?
-O Art. 144 da Constituição traz que:
-
-A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade [situação do que está protegido e seguro] das pessoas e do patrimônio, através dos seguintes órgãos:
-
-Polícia federal;
-Polícia rodoviária federal;
-Polícia ferroviária federal;
-Polícias civis;
-Polícias militares e corpos de bombeiros militares.
-
-A Polícia Federal, Rodoviária Federal e Ferroviária Federal são organizadas e mantidas pela União. A Polícia Militar e o Corpo de Bombeiros militar são forças auxiliares e reserva do Exército e, junto à Polícia Civil, são subordinados aos governadores.
-
-A nível ministerial, há a Secretaria Nacional da Segurança Pública, órgão do Ministério da Justiça com competência para implementar, acompanhar e avaliar as políticas e programas nacionais de segurança pública.
-
-Cabe ainda a essa Secretaria incentivar os órgãos estaduais e municipais a elaborarem planos integrados de segurança, além de fortalecer e integrar os órgãos responsáveis pela segurança dos territórios nacionais.
-
-Ainda segundo a Constituição Federal, o policiamento das ruas e a manutenção da segurança são tradicionalmente conferidos à Polícia Militar.
-
-Que tal um infográfico para entender quem faz o quê?
-![Descrição da imagem](texto-imagens/seguranca-publica.jpg)
-
-Como mensurar a violência?
-Você sabia que, em média, a cada nove minutos uma pessoa é morta violentamente no Brasil? O medo cotidiano ao sair de casa e transitar por vias públicas pode ser vivenciado por qualquer cidadão brasileiro que resida em uma das metrópoles do país ou mesmo em uma cidade de médio a grande porte.
-
-Como forma de medir o nível de insegurança ou violência das cidades, são utilizados dados de indicadores que expressam o número de crimes contra o patrimônio (como furtos) e a vida. Tais indicadores são construídos e seus dados coletados e analisados, geralmente, pelas Secretarias de Estado responsáveis pela segurança de cada unidade federativa.
-
-Após o recolhimento de dados em cada estado, um panorama nacional é publicado anualmente pelo Fórum Brasileiro de Segurança Pública (FBSP). Os crimes violentos letais e intencionais (CVLI) são o termômetro da violência no Brasil, uma vez que expressam a maior preocupação do cidadão quando o assunto é segurança.
-
-O infográfico abaixo, elaborado pelo G1, traz os dados desde 2007, ano em que o FBSP começou a medição.
-
-![Descrição da imagem](texto-imagens/assassinatos-queda-g1.jpg)
-
-Como a violência se manifestou em 2022?
-O Fórum Brasileiro de Segurança Pública divulgou o 17º Anuário Brasileiro de Segurança Pública de 2023, que traz dados atualizados sobre o quadro de violência do país.
-
-Destacam-se o crescimento do registro de casos de violência de gênero, racismo e contra pessoas LGBTQIA+, além de uma mudança no quadro de crimes patrimoniais.
-
-2022 foi o ano com mais casos de estupros registrados. Foram, em média, 205 estupros por dia, totalizando 74.930 vítimas, considerando também os casos de estupros de vulneráveis. Nesse sentido, 6 em cada 10 vítimas tinham até 13 anos.
-
-Especialistas relatam que, o crescimento de registros de estupro de vulneráveis pode ter ocorrido devido a volta às aulas presenciais. Isso porque o papel da escola no combate aos crimes sexuais contra crianças e adolescentes é essencial para que as denúncias sejam feitas.
-
-O documento registrou um aumento de 68% de crimes de racismo e o crescimento de 54% de crimes contra pessoas LGBTQIA+. Apesar disso, muitos casos podem estar subnotificados, pois além de não serem registrados nas delegacias, alguns estados não divulgaram informações para o Fórum, o que dificultou na mensuração dos dados.
-
-Além disso, observou-se uma nova configuração de crimes patrimoniais no Brasil depois da pandemia de Covid-19. Em 2022, foram registrados 208 golpes virtuais por hora e 1.819.409 crimes de estelionato somente neste ano. Isso representa um crescimento de 326,3% desde 2018.
-
-Saiba mais: Qual é o perfil de violência no Brasil?
-
-Quem mata e quem morre?
-76,5% das vítimas de homicídio no Brasil são negras. O perfil de quem mata e morre no país é o mesmo: homens negros, com baixa escolaridade e baixa renda, moradores de periferia e com idade de até 29 anos.
-
-A construção social do nosso país se correlaciona ao problema da segurança pública nacional, assim como o perfil dos principais atores envolvidos. A escravidão foi abolida no Brasil em 1888, mas não foram criadas políticas públicas de inclusão e trabalho para a comunidade negra.
-
-É só reparar nos empregos que não exigem tanta qualificação e, consequentemente, pagam salários menores. Eles são ocupados, em sua maioria, por negros. Ainda existe a falha do Estado em fornecer acesso digno à moradia, escolas e serviços básicos e de direito dos cidadãos. Somado a isso, a criminalização dessas pessoas foi naturalizada, fazendo com que as periferias se tornassem o único refúgio.
-
-Ainda podem ser mencionados diversos recortes da violência no país, como os feminicídios, os assassinatos brutais contra a população LGBTI+ e as mortes relacionadas às Polícias Civis e Militares.
-
-Em um ranking mundial de 83 países, o Brasil ocupa a quinta posição em homicídios femininos, com uma taxa de 4,8 assassinatos para 100 mil mulheres, das quais 65% são negras. No que diz respeito à comunidade LGBTI+, ocorre um assassinato por dia relacionado à homofobia. Além disso, somos o país que mais mata transexuais no mundo.
-
-Em 2022, 172 policiais foram assassinados e 82 cometeram suicídio. Entretanto, a maior parte dessas mortes ocorreram durante a folga desses policiais.
-
-Para uma visualização melhor de todos esses dados, nós criamos um infográfico para você!
-
-![Descrição da imagem](texto-imagens/n__meros_de_viol__ncia_no_brasil_prancheta_1.jpg)
-Os desafios da segurança pública no Brasil e políticas públicas para sua solução
-Na teoria, pensar em segurança envolve os órgãos policiais e o Corpo de Bombeiros, além do Ministério da Justiça, controle de fronteiras e sistema carcerário, por exemplo.
-
-Na prática, e no nosso recorte de segurança pública nas ruas, o termo é reduzido e diretamente associado à Polícia Militar. Ligado a essa associação, a maioria dos brasileiros têm uma visão negativa sobre o desempenho desses profissionais. Os números apontam que cerca de 7 em 10 brasileiros desconfiam do trabalho da Polícia.
-
-Atribuir à Polícia Militar a responsabilidade de enfrentar e diminuir a violência é um fardo muito pesado e, por muitas vezes, não muito efetivo. Os crimes contra a vida deveriam ser tratados de uma forma intersetorial. Ou seja, com a implementação de políticas públicas inteligentes que englobam o investimento não só em policiamento, mas também em esporte, lazer, educação, saúde e acesso ao trabalho, por exemplo.
-
-De uma forma geral, deve-se entender que tudo está conectado e, portanto, não se diminui a violência nas cidades sem que haja ações de melhoria na qualidade de vida dos principais atores que a promovem.
-
-A violência no Brasil atinge todas as classes sociais. Portanto, as políticas públicas e a ação do Estado devem envolver desde os bairros de elite, até as comunidades mais vulneráveis.
-
-Pensando dessa maneira, no dia 16 de maio de 2018, o Senado Federal aprovou o projeto de lei 19/2018 para a criação do Sistema Único de Segurança Pública (Susp). O Susp objetiva a integração dos órgãos nacionais de segurança, como as polícias, secretarias estaduais de segurança e guardas municipais, para que atuem de forma cooperativa e sistêmica.
-
-Além disso, o projeto também institui a Política Nacional de Segurança Pública e Defesa Social (PNSPDS), sancionada pelo então presidente Michel Temer, que propõe a ação conjunta da sociedade e dos órgãos de segurança e defesa social da União, estados, Distrito Federal e municípios.
-
-Boas práticas no âmbito da segurança pública
-Como o Brasil é um país continental, desigual e diverso, é importante agir nas esferas menores, como a municipal, entendendo assim os contextos locais.
-
-Políticas públicas eficientes no enfrentamento da violência podem ser amplamente desenvolvidas pelas cidades, no que diz respeito à prevenção de delitos e diminuição de situações que possibilitem a ocorrência de crimes.
-
-Alguns especialistas brasileiros em segurança pública citam o controle às armas de fogo e a diminuição da desigualdade social como alguns dos pontos principais no combate à violência. Eles ainda afirmam que o país precisa priorizar tal questão, incluindo efetivamente o tema da segurança na agenda pública nacional.
-
-É necessário entender a violência como um fenômeno complexo, variável e mutável.
-Em relação a isso, o coordenador do núcleo sobre Políticas de Segurança da UFPE, José Luiz Ratton, mencionou alguns pontos que considera indispensáveis para a segurança pública. Entre eles estão:
-
-Construção de mecanismos eficientes de redução da violência policial;
-Prevenção e investigação dos crimes contra a vida;
-Controle as armas de fogo com políticas de longo prazo;
-Atenção ao encarceramento elevado e humanização das prisões;
-Adoção de políticas sobre drogas.
-Ignácio Cano, professor e membro do Laboratório de Análise da Violência da UERJ, elucida que são necessários programas voltados aos jovens da periferia. Afinal, essas são as pessoas que representam o recorte populacional mais afetado pela violência nas cidades.
-
-Além de tais iniciativas, deve-se buscar a melhoria das taxas de esclarecimento de homicídios e uma mudança no policiamento ostensivo no país.
-
-A segurança pública é um dos problemas mais alarmantes da sociedade brasileira atual. Políticas de longo prazo, inteligentes, planejadas e efetivas são fundamentais no seu combate. É necessário ter em mente que o entendimento das peculiaridades locais, o estudo de boas práticas nacionais e internacionais, assim como a priorização do assunto segurança pública nas agendas governamentais podem ser o ponto chave para sua solução.
-
 # Business-to-Business Interactions in a ‘Single Window’ Environment
 
 The entire international trade supply chain exists to fulfil the needs of the buyer, who is interested
@@ -328,3 +252,178 @@ logistics, IT and Customs, and is attempting to do just that. The project aims t
 more efficient and effective by addressing the visibility needs of both business and government in the
 international flow of containerized cargo by developing a data sharing concept that allows an extended
 assessment of risks by both business and government.
+
+Desde fim dos anos 80 do século passado, o efeito estufa
+como ameaça ecológica número um não é mais contestado.
+Embora não se possa provar, irrefutavelmente, que o aumento até
+agora medido das temperaturas anuais médias (em torno de um
+grau nos últimos cem anos) se refere ao desenvolvimento
+humano, essa suposição tem, no entanto, muita probabilidade de
+ser correta — de tal forma que seria irresponsabilidade deixar as
+coisas seguirem seu curso. Um primeiro sinal de que o clima
+mundial já começou a mudar é o aumento de anomalias
+meteorológicas — ciclones, períodos de seca e trombas-d’água
+diluvianas — desde os anos 90 do século passado.
+Os limites do crescimento marcam uma espécie de
+escassez, embora no mercado não se tornem imediatamente
+notados como tais. A atmosfera, por exemplo, não funciona como
+um reservatório, que um dia esvaziará e outro dia será novamente
+enchido por bombeamento (a isso, o mercado poderia ao menos
+reagir em curto prazo), mas como um mecanismo que, lenta mas
+inexoravelmente, terá efeito retroativo em nossas condições de
+vida, comparável a um parafuso de rosca que se aperta sempre
+mais.
+O limite do demasiado é invisível e também não pode ser
+determinado diretamente por experimentos. Assim como, ao se
+escalarem montanhas, o ar cada vez mais rarefeito nas alturas
+desafia os alpinistas diferenciadamente — uns mais, outros
+menos —, a fauna e a flora, em regiões diferenciadas, reagem
+diferentemente ao aquecimento da atmosfera. Uma das
+preocupações mais sérias é provocada pela velocidade com que já
+está ocorrendo a mudança climática. Se ela não for eficazmente
+freada, poderá exigir demasiado da capacidade adaptativa de
+muitas espécies.
+
+A história da irrigação se confunde, na maioria das vezes,
+com a história da agricultura e da prosperidade econômica de
+inúmeros povos. Muitas civilizações antigas se originaram assim,
+em regiões áridas, onde a produção só era possível com o uso da
+irrigação.
+O Brasil, dotado de grandes áreas agricultáveis localizadas
+em regiões úmidas, não se baseou, no passado, na irrigação,
+embora haja registro de que, já em 1589, os jesuítas praticavam a
+técnica na antiga Fazenda Santa Cruz, no estado do Rio de
+Janeiro. Também na região mais seca do Nordeste e nos estados
+de Minas Gerais e São Paulo, era utilizada em culturas de
+cana-de-açúcar, batatinha, pomares e hortas. Em cafezais, seu
+emprego iniciou-se na década de 50 do século passado, com a
+utilização da aspersão, que se mostrou particularmente
+interessante, especialmente nas terras roxas do estado de São
+Paulo.
+A irrigação, de caráter suplementar às chuvas, tem sido
+aplicada na região Centro-Oeste do país, especialmente em
+culturas perenes.
+Embora a região central do Brasil apresente boas médias
+anuais de precipitação pluviométrica, sua distribuição anual
+(concentrada no verão, sujeita a veranicos e escassa ou
+completamente ausente no inverno) permite, apenas, a prática de
+culturas anuais (arroz, milho, soja etc.), as quais podem se
+desenvolver no período chuvoso e encontrar no solo um
+suprimento adequado de água.
+Já as culturas mais perenes (como café, citrus,
+cana-de-açúcar e pastagem) atravessam, no período seco, fases de
+sensível deficiência de água, pela limitada capacidade de
+armazenamento no solo, o que interrompe o desenvolvimento
+vegetativo e acarreta colheitas menores ou nulas.  
+ A vantagem e a principal justificativa econômica da
+irrigação suplementar estão na garantia de safra, a despeito da
+incerteza das chuvas.
+Na região Nordeste, a irrigação foi introduzida pelo
+governo federal e aparece vinculada ao abastecimento de água no
+Semiárido e a planos de desenvolvimento do vale do São
+Francisco. Ali, a irrigação é vista como importante medida para
+amenizar os problemas advindos das secas periódicas, que
+acarretam sérias consequências econômicas e sociais.
+No contexto das estratégias nacionais de
+desenvolvimento, um programa de irrigação pode contribuir para
+o equacionamento de um amplo conjunto de problemas
+estruturais. Com relação à geração de empregos diretos, a
+agricultura irrigada nordestina é mais intensiva do que nas outras
+regiões do país. Na região semiárida, em especial no vale do São
+Francisco, a irrigação tem destacado papel a cumprir, como,
+aliás, já ocorre em importantes polos agroindustriais da região
+Nordeste.
+A irrigação constitui-se em uma das mais importantes
+tecnologias para o aumento da produtividade agrícola. Aliada a
+ela, uma série de práticas agronômicas deve ser devidamente
+considerada.
+
+No novo cenário brasileiro da contabilidade, que busca harmonização com a contabilidade
+internacional, um dos aspectos de relevância é a qualidade da informação contábil, entendida como
+instrumento para a tomada de decisão pelos agentes econômicos. Nesse sentido, ganha importância
+garantir que os ativos não estejam registrados contabilmente por um valor superior àquele passível de
+ser recuperado pela entidade que os detém, situação que pode ser impactada por diversos fatores, tanto
+internos quanto externos.
+O registro da perda de valor recuperável se torna necessário quanto se percebe que o valor investido em um ativo não
+terá o retorno esperado, seja por um desgaste acelerado, seja por obsolescência anormal, seja por qualquer outro fator.
+Algumas fontes de informação, externas e internas, facilitam a visualização desse evento.
+Como fontes externas, podem ser citadas:
+(a) observação de que o valor do ativo diminuiu significativamente durante o período, além do que se esperaria
+ocorrer pela passagem do tempo ou pelo uso normal;
+(b) ocorrência, no presente ou no futuro próximo, de mudanças expressivas no ambiente tecnológico, de mercado,
+econômico ou legal que impactam as operações da entidade;
+(c) aumento das taxas usuais de mercado, com impacto sobre a apuração do retorno dos investimentos e, por
+conseguinte, no valor em uso dos ativos;
+(d) o valor contábil do patrimônio líquido maior do que o valor das ações da entidade no mercado.
+Como fontes internas, podem ser citadas:
+(a) evidência disponível de obsolescência ou de dano físico de um ativo;
+(b) ocorrência, no presente ou no futuro próximo, de mudanças significativas com efeito adverso sobre os ativos da
+entidade, com impacto sobre a forma como tais ativos são utilizados;
+(c) relatório interno apontando que o desempenho econômico de um ativo é ou será pior que o esperado.
+Valor recuperável define-se como o maior valor entre o valor justo líquido de despesas de venda de um ativo ou
+unidade geradora de caixa e o seu valor em uso. Caso ao menos um desses critérios seja maior do que o valor contábil líquido,
+não há necessidade de constituir uma provisão para perda de valor. Caso haja essa necessidade, o maior valor apurado será
+confrontado com o valor contábil líquido, e a diferença será registrada como uma provisão para perda, constituindo-se um
+novo valor do ativo para todas as finalidades.
+
+A CODEVASF elegeu o mapeamento de passivo ambiental ao longo do rio São Francisco como um
+de seus projetos prioritários. Os mapas devem ser apresentados na escala de 1:100.000. Por passivo
+ambiental, entendem-se as áreas antropizadas presentes em áreas de preservação permanente ao longo
+das margens do rio e que precisam ser recuperadas.
+A proposição de que a poupança externa é um fator importante para o crescimento, está relacionada à ideia de que o
+país não consegue realizar um nível de poupança doméstica capaz de financiar completamente seus projetos de investimento.
+Essa hipótese está baseada implicitamente em uma relação de causalidade da poupança para o investimento, ou de que a
+poupança determina o investimento.  
+ Keynes, em sua obra magna Teoria Geral do Emprego, do Juro e da Moeda, constrói o argumento de que a
+poupança, ao invés de constituir-se no pré-requisito do investimento é, na verdade, seu resultado. O ponto de partida da teoria
+keynesiana é o “princípio da demanda efetiva”, segundo o qual são as decisões de investimento que determinam o nível da
+atividade econômica. Com efeito, a concretização dos investimentos depende das estimativas feitas pelos homens de negócio
+acerca da rentabilidade do investimento em relação ao tipo de juros que custeia o investimento ou, ainda, depende do animal
+spirits dos homens de negócio sobre a expectativa formada sobre a rentabilidade do empreendimento denominada de eficácia
+marginal do capital.
+Sendo essa assertiva correta, oscilações na poupança externa devem ter como correspondente oscilações na poupança
+agregada (doméstica + externa). Esta relação entre déficit em conta-corrente e poupança interna é extraída diretamente de uma
+identidade contábil proveniente das Contas Nacionais:
+𝑌 = 𝐶 + 𝐼 + 𝐺 + (𝑋 − 𝑀 + 𝑇𝑢 − 𝑅𝑙𝑒𝑒) (1)
+em que:
+Y = Produto Interno Bruto (PIB)
+C = Consumo
+I = Investimento
+G = Gasto do Governo
+(𝑋 − 𝑀) = exportações líquidas de importação de bens e serviços não-fatores
+Tu = Transferências Unilaterais
+Rlee = Pagamento Líquido de Serviços de Fatores
+(𝑋 − 𝑀 + 𝑇𝑢 − 𝑅𝑙𝑒𝑒) = TC, ou seja, o saldo em transações correntes = poupança externa absorvida pelo país.
+Desenvolvendo-se a expressão (1), tem-se que:
+𝑌 − (𝐶 + 𝐼 + 𝐺) = TC (2)
+Desagregando Y em renda privada e renda do governo, em que 𝑌ௗ é a renda disponível, 𝑌ௗ = 𝑌 − 𝑇, obtém-se:
+𝑌ௗ + 𝑇 − (𝐶 + 𝐼 + 𝐺) = 𝑇𝐶 (3)
+Como: 𝑆௣ = 𝐶 − 𝑌ௗ ; 𝑆ீ = 𝐺 − 𝑇; 𝑆௘ = −𝑇𝐶 (4)
+Ou ainda: 𝐼 = 𝑆௉ + 𝑆ீ + 𝑆ா (4)
+Em que: 𝐼 é o investimento agregado, 𝑆௉ é a poupança privada, 𝑆ீ é a poupança (ou déficit) do governo, 𝑆ா é a poupança
+externa. Ou ainda, que: 𝑆ா = 𝐼 − 𝑆௉ + 𝑆ீ
+Verifica-se, portanto, que do ponto de vista contábil, a poupança externa nada mais é do que déficit em transações
+correntes.
+Se (𝑋 − 𝑀 + 𝑇𝑢 − 𝑅𝑙𝑒𝑒) < 0, isso significa que o país estaria incorrendo em déficits em transações correntes, ou
+seja, o país estaria captando poupança externa do exterior, que por definição reflete a insuficiência de poupança doméstica para
+um dado nível de investimento.
+Em termos dinâmicos, o mecanismo pelo qual a taxa de poupança da economia se ajusta à taxa de investimento
+decidida pelas firmas envolve a chamada relação bilateral entre lucros e investimento. Dentro da concepção Keynesiana, a
+poupança não financia o investimento em nenhum sentido. Primeiro, porque ela não precede, nem temporal, nem logicamente,
+o investimento. Não existe uma poupança ex-ante. A poupança é por definição um fluxo de rendimentos simultâneos ao
+investimento e por ele determinado. Em outro prisma, a poupança é por definição um fluxo, e não um estoque, ao contrário do
+crédito. Como todo fluxo, é definida no nível agregado, das transações individuais, de forma instantânea, e no nível agregado,
+no mesmo período contábil em que se define o investimento. Assim, a poupança é sempre involuntária e não financia nenhum
+gasto.  
+ Analisando-se os componentes da identidade (4), pode parecer que o lado direito estaria financiando o lado esquerdo.
+Outro ponto mais sutil, é imaginar que a poupança dos setores privados, público e externo são complementares. Entretanto, em
+nenhuma hipótese um baixo nível de poupança privada poderia ser reforçado quer por um aumento da poupança do governo,
+quer da poupança externa. Se por um lado a poupança privada não pode modificar-se independentemente, por qualquer
+alteração nas poupanças externa e do governo, implicará fatalmente alteração inversa na poupança privada para um dado
+investimento. A conclusão é que para um dado nível de investimento, a poupança privada é determinada pelos outros dois
+componentes da “poupança”, variando inversamente a cada um deles. Assim, a poupança privada se reduz frente a um aumento
+autônomo das “poupanças”, e frente uma redução autônoma do investimento.
+Em síntese, a questão central não é, portanto, como captar esta poupança, mas sim como criar um ambiente
+macroeconômico estável e seguro, em que os empresários possam investir, expandir a capacidade industrial e gerar a
+poupança. Nesse sentido, a assertiva apresentada na questão de que a poupança externa é fundamental para alavancar o
+investimento não guarda par na teoria keynesiana.
