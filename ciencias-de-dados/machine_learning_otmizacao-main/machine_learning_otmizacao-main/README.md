@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devluz2023/machine_learning_otmizacao/blob/main/Machine_Learning_Otimiza%C3%A7%C3%A3o.ipynb)
