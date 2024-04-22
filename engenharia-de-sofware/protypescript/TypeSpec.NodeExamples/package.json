@@ -1,0 +1,8 @@
+{
+  "name": "typespect-node-examples",
+  "private": true,
+  "main": "app.js",
+  "devDependencies": {
+    "typespec-bdd": "^2.0.1"
+  }
+}
